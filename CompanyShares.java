@@ -7,7 +7,6 @@ public class CompanyShares {
     public int companyNo;
 
     public CompanyShares(int companyNo, String name, int noOfShare, double sharePrice) {
-        super();
         this.companyName = name;
         this.noOfShare = noOfShare;
         this.sharePrice = sharePrice;
